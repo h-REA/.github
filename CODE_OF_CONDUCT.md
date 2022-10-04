@@ -1,30 +1,41 @@
 # hREA Community Code of Conduct
 
-**We ask all Enspiral participants to support these Personal Conduct Guidelines:**
+## Personal Responsibilities
 
-## Respect diversity
+The hREA community collectively strives to foster an increasingly open, inclusive and caring culture.
 
-We are committed to supporting social diversity and cultural sensitivity. Please support our [Diversity Agreement](diversity.md) in all interactions.
+**We ask all community participants to strive toward these Personal Conduct Guidelines:**
 
-## Communicate gently
+#### Respect diversity
 
-Enspiral participants are expected to support contemplative awareness and [nonviolent communication](http://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) in our relationships. This is especially important in online communications. Please consider other perspectives in network-related activity.
+We are committed to supporting social diversity and cultural sensitivity. Please support [our conduct standards](#our-standards) in all interactions.
 
-## Communicate effectively
+#### Communicate gently
 
-Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider reading our [Comms Guidelines](../guides/comms_guidelines.md), especially the "Pick your Channel Wisely" section, to help express yourself effectively.
+Participants are expected to support contemplative awareness and [nonviolent communication](http://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf) in our relationships. This is especially important in online communications. Please consider other perspectives in network-related activity.
 
-## Discuss concerns and questions
+#### Communicate effectively
 
-If you feel uncomfortable or uncertain about Enspiral issues or processes, please _identify your concerns_. If they've already been identified in [Enspiral Improvements](../guides/improvements.md) or in active [Loomio](https://www.loomio.org/g/1xCPyY46/enspiral) discussions, please join the conversation. If not, start a conversation which could help the whole network.
+Your voice is welcome. Your perspective is valued. Your interests are interesting. The best thing you can do to give and receive value is participate. Please consider the intended purpose of different communication channels within our organisation and choose the appropriate channel for different interactions.
 
-## Resolve conflicts inclusively
+Broadly, this means:
 
-We commit to resolve conflicts inclusively using a Transformative Justice approach, aiming to strengthen community and to fairly recognize all serious concerns. We encourage all conflicts to be resolved with the fewest people necessary, again acknowledging that everyone directly affected by the conflict needs to be involved. Refer to our [Conflict Resolution Guide](../guides/conflict-resolution.md) which further explains this.
+- [Github issues](https://github.com/h-REA/hREA/issues) for filing bug reports and feature requests
+- The [community Discord server](https://discord.gg/um4UsxdFDk) for queries related to the [Valueflows](https://www.valueflo.ws/) model, hREA project status or building applications on hREA
 
-## Mutual responsibility
+#### Discuss concerns and questions
 
-We're all responsible, all of the time, to take positive action in response to harassment and abuse. In some instances, this may include reporting to external authorities. Enspiral expects all participants to take this responsibility seriously.
+If you feel uncomfortable or uncertain about our issues or processes, please _identify your concerns_.
+
+#### Resolve conflicts inclusively
+
+We commit to resolve conflicts inclusively using a [Transformative Justice](https://commonslibrary.org/transformative-approaches-to-conflict-resolution/) approach, aiming to strengthen community and to fairly recognize all serious concerns. We encourage all conflicts to be resolved with the fewest people necessary, again acknowledging that everyone directly affected by the conflict needs to be involved. Refer to the Loomio [Conflict Resolution Guide](https://www.loomio.coop/conflict_resolution.html) which further explains this.
+
+#### Mutual responsibility
+
+We're all responsible, all of the time, to take positive action in response to harassment and abuse. In some instances, this may include reporting to external authorities. Our community expects all participants to take this responsibility seriously.
+
+
 
 ## Our Standards
 
