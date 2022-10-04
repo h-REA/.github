@@ -41,13 +41,13 @@ We're all responsible, all of the time, to take positive action in response to h
 
 hREA is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all hREA spaces, including Github and our Discord server, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the hREA Community Management.
+This code of conduct applies to all hREA spaces, including Github and our Discord server, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the hREA Community Management Team.
 
 Some hREA spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
-- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
+- Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, class, or religion.
 - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 - Deliberate misgendering or use of ‘dead’ or rejected names.
 - Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate.
