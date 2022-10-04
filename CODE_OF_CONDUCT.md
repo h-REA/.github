@@ -39,11 +39,11 @@ We're all responsible, all of the time, to take positive action in response to h
 
 ## Our Standards
 
-COMMUNITY NAME is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+hREA is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all COMMUNITY NAME spaces, including [give a list of your spaces, eg "our mailing lists and IRC channel"], both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
+This code of conduct applies to all hREA spaces, including Github and our Discord server, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the hREA Community Management.
 
-Some COMMUNITY NAME spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some hREA spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
@@ -64,7 +64,7 @@ Harassment includes:
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 - Publication of non-harassing private communication.
 
-COMMUNITY NAME prioritizes marginalized people’s safety over privileged people’s comfort. RESPONSE TEAM reserves the right not to act on complaints regarding:
+hREA prioritizes marginalized people’s safety over privileged people’s comfort. hREA Community Management Team reserves the right not to act on complaints regarding:
 
 - ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
@@ -73,19 +73,19 @@ COMMUNITY NAME prioritizes marginalized people’s safety over privileged people
 
 ## Reporting
 
-If you are being harassed by a member of COMMUNITY NAME, notice that someone else is being harassed, or have any other concerns, please contact the RESPONSE TEAM at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of hREA, notice that someone else is being harassed, or have any other concerns, please contact the hREA Community Management Team at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to COMMUNITY NAME spaces, but if you are being harassed by a member of COMMUNITY NAME outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by COMMUNITY NAME members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from COMMUNITY NAME based on their past behavior, including behavior outside COMMUNITY NAME spaces and behavior towards people who are not in COMMUNITY NAME.
+This code of conduct applies to hREA spaces, but if you are being harassed by a member of hREA outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by hREA members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from hREA based on their past behavior, including behavior outside hREA spaces and behavior towards people who are not in hREA.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of COMMUNITY NAME members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of hREA members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, RESPONSE TEAM may take any action they deem appropriate, up to and including expulsion from all COMMUNITY NAME spaces and identification of the participant as a harasser to other COMMUNITY NAME members or the general public.
+If a participant engages in harassing behavior, hREA Community Management Team may take any action they deem appropriate, up to and including expulsion from all hREA spaces and identification of the participant as a harasser to other hREA members or the general public.
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
