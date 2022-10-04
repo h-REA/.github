@@ -73,9 +73,9 @@ hREA prioritizes marginalized people’s safety over privileged people’s comfo
 
 ## Reporting
 
-If you are being harassed by a member of hREA, notice that someone else is being harassed, or have any other concerns, please contact the hREA Community Management Team at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of hREA, notice that someone else is being harassed, or have any other concerns, please contact the hREA Community Management Team at conduct@hrea.io. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to hREA spaces, but if you are being harassed by a member of hREA outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by hREA members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from hREA based on their past behavior, including behavior outside hREA spaces and behavior towards people who are not in hREA.
+This code of conduct applies to hREA spaces, but if you are being harassed by a member of hREA outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by hREA members, especially hREA Community Management Team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from hREA based on their past behavior, including behavior outside hREA spaces and behavior towards people who are not in hREA.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
