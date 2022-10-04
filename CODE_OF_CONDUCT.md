@@ -133,11 +133,6 @@ community.
 
 ## License and attribution
 
-This policy is licensed under the [http://creativecommons.org/publicdomain/zero/1.0/ Creative Commons Zero license] . It is '''public domain''''', ''no credit and no open licencing of your version is required.
+This policy is licensed under the [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/). It is *'public domain'*, no credit and no open licencing of your version is required.
 
-If you would like to optionally attribute it, you could use the below text and link to http://geekfeminism.wikia.com/wiki/Community_anti-harassment:
-:This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Geek Feminism community.
-
-The policy is based on the [[Conference anti-harassment/Policy|conference anti-harassment policy]], and is the work of Annalee Flower Horne with assistance from Valerie Aurora, Alex Skud Bayley, Tim Chevalier, and Mary Gardiner.
-[[Category:Harassment policy]]
-[[Category:Resources]]
+The policy is the work of the hREA community. Standards are based on [the example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community. Enforcement guidelines are adapted from the [Contributor Covenant version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). Personal responsibilities are adapted from [that section of the Enspiral handbook](https://github.com/enspiral/handbook/blob/df61b50/agreements/personal_conduct.md).
